@@ -152,7 +152,7 @@ Acredito que **disciplina**, **curiosidade** e **aprendizado contínuo** são os
 
 <div align="center">
 
-### 🚀 *"O sucesso é a soma de pequenos esforços repetidos diariamente."*
+### 🚀 *"Aprendizes Talentosos usam lógica para vencer."*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:6C63FF&height=120&section=footer"/>
 
